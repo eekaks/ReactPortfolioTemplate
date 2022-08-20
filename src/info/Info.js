@@ -80,7 +80,7 @@ export const info = {
     bio: "Hello! I'm Eetu. I'm a junior full stack developer at Academic Work. I used to teach high school English for over 10 years and now I'm pursuing my dream in programming. Watch this space!",
     skills:
         {
-            proficientWith: ['python', 'csharp', 'react', 'git', 'github'],
+            proficientWith: ['python', 'csharp', 'reactjs', 'azure', 'sql', 'git', 'github'],
             exposedTo: ['javascript', 'nodejs', 'html', 'css']
         }
     ,
